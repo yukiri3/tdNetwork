@@ -1,7 +1,5 @@
 //
 //  tdNetwork.h
-//  TenDollar
-//
 //  Created by Li Chen Liou on 2017/4/24.
 //  Copyright © 2017年 Li Chen Liou. All rights reserved.
 //
